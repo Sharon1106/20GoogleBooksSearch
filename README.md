@@ -1,4 +1,4 @@
-# GoogleBookSearch   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Google Books Search   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   An app for simple google books searches. Users are able to save,search and delete books they are interested in.
