@@ -1,18 +1,11 @@
 # Google Books Search   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  An app for simple google books searches. Users are able to save,search and delete books they are interested in.
-
-  ## Table of Contents
-
-  * [Installation](#Installation)
-  * [Usage](#Usage)
-  * [Built with](#Built-with)
-  * [License](#License)
-  * [Questions](#Questions)
-  
+  Test app for Heroku Deployment.
+  Simple google books search.
+ 
   ## Installation
-  Installation instructions: npm i in root folder and in client folder
+  Installation instructions: `npm i` in root folder and in client folder
 
   ## Usage 
   https://infinite-peak-73619.herokuapp.com/
@@ -20,7 +13,6 @@
 
   ## Built with
   MongoDB | Express | React | Node | JavaScript
-
 
   ## License 
   This project is licensed under: MIT https://opensource.org/licenses/MIT
